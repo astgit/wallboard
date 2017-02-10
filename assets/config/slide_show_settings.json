@@ -1,0 +1,23 @@
+{
+  "LendingSlideShow": {
+    "directory": "assets/images/upload/lending_slide_show",
+    "pattern": "**/*.{jpg,JPG,gif,GIF,png,PNG}",
+    "maxImageSize": [1280,720],
+    "quality": 70,
+    "subDirectoryExceptions": []
+  },
+  "CastleTrustTVSlideShow": {
+    "directory": "assets/images/upload/lending_slide_show",
+    "pattern": "**/*.{jpg,JPG,gif,GIF,png,PNG}",
+    "maxImageSize": [1280,720],
+    "quality": 70,
+    "subDirectoryExceptions": []
+  },
+  "SalesSlideShow": {
+    "directory": "assets/images/upload/sales_slide_show",
+    "pattern": "**/*.{jpg,JPG,gif,GIF,png,PNG}",
+    "maxImageSize": [1280,720],
+    "quality": 70,
+    "subDirectoryExceptions": []
+  }
+}
